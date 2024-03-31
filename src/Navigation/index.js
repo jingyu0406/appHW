@@ -42,7 +42,7 @@ const CustomDrawerContent = (props) => {
     >
       <VStack pl={16} pt={40} pb={16}>
         <MaterialCommunityIcons name="account-circle" size={50} />
-        <Text style={{ fontFamily: "Roboto", fontSize: 24, fontWeight: "bold" , paddingbottom:16, paddingTop:16}}>Thomas</Text>
+        <Text style={{ fontFamily: "Roboto", fontSize: 24, fontWeight: "bold" , paddingbottom:16, paddingTop:16}}>JingYu</Text>
       </VStack>
       <Divider my="$2" />
       <DrawerItemList {...props} />
